@@ -85,11 +85,6 @@ Tech Stack: `Next.js`, `TypeScript`, `AI Integration`
 - Collaborated in agile environment
 - Tech Stack: `React`, `Node.js`, `HTML/CSS`, `JavaScript`
 
-### **Wheelchair Accessibility App**
-♿ Mobile app identifying wheelchair-accessible restaurants  
-- Focused on inclusive design and accessibility features
-- Tech Stack: `Mobile Development`, `Accessibility APIs`
-
 ---
 
 ## 📊 GitHub Stats
