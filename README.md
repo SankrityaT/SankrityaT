@@ -94,8 +94,8 @@ Tech Stack: `Next.js`, `TypeScript`, `AI Integration`
 
 ## 📊 GitHub Stats
 
-![Sankritya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankrityaThakur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankrityaThakur&layout=compact&theme=radical)
+![Sankritya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankrityaT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankrityaT&layout=compact&theme=radical)
 
 ---
 
