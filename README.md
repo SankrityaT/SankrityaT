@@ -68,10 +68,6 @@ Tech Stack: `Next.js`, `TypeScript`, `Google Maps API`, `Machine Learning`
 ### 3. **CommUnity** - Hacks for Humanity Winner
 👥 Community collaboration platform with AI-powered conflict mediation  
 Tech Stack: `Next.js`, `TypeScript`, `AI Integration`
-
-### 4. **[Fourth Win]**
-🎯 Building solutions that make a real difference
-
 ---
 
 ## 🚀 Featured Projects
