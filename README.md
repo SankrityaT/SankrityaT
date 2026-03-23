@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sankritya Thakur
 
-🌟 **Software Engineer** | **iOS Developer** | **Full-Stack Developer** | **4x Hackathon Winner** 🏆
+🌟 **Software Engineer** | **iOS Developer** | **Full-Stack Developer** | **8x Hackathon Winner** 🏆
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SankrityaThakur&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sankrityat)
