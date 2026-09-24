@@ -1,116 +1,50 @@
-# Hi there! 👋 I'm Sankritya Thakur
+<div align="center">
 
-🌟 **Software Engineer** | **iOS Developer** | **Full-Stack Developer** | **8x Hackathon Winner** 🏆
+# Sankritya Thakur
 
-![Profile Views](https://komarev.com/ghpvc/?username=SankrityaThakur&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sankrityat)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](http://www.sankrityat.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/SankrityaThakur)
+Full-stack & iOS engineer · MS CS @ ASU, Dec 2026 · 10x hackathon winner, $40K+ in prizes
 
----
+[sankrityat.com](https://sankrityat.com) · [LinkedIn](https://linkedin.com/in/sankrityat) · [sankritya.apps@gmail.com](mailto:sankritya.apps@gmail.com)
 
-## 👨‍💻 About Me
+</div>
 
-- 🎓 **M.S. in Computer Science** @ Arizona State University | GPA: 4.0/4.0
-- 🏆 **4x Hackathon Winner** - InstaCare, CommUnity, Crises.ai, and more
-- 🔬 **AI Enthusiast** - Integrated LLMs (Mistral-7B) into production apps
-- 💼 Currently: **Operations Support Specialist** @ ASU Admissions
-- 🎯 Passionate about building tech that solves real problems
+<br>
 
----
+### Currently
 
-## 🔧 Technologies & Tools
+Zoom Fellow at ASU Next Lab, building AI-native tools on Zoom's developer platform. Finishing my Master's in Computer Science at Arizona State (4.0, both degrees).
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Building
 
-**Cloud & Databases:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+**[Cardea](https://github.com/SankrityaT/openai-mcp-hackathon)** — a browser AI-agent canvas with an approval gate, so the agent can't take irreversible actions unchecked. WebMCP-native, drives real pages through in-page tools while nothing commits without you.
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**Navia** — an AI companion app with 150+ users, built with a small team. Won $25K across hackathons including ASU's Global AI Challenge.
 
----
+**[OnDeviceCatalyst](https://github.com/SankrityaT/OnDeviceCatalyst)** — open-source Swift package bridging llama.cpp and Apple MLX, custom Metal GPU shaders, running local LLMs on-device at 28 tok/s.
 
-## 🏆 Hackathon Wins
+**Yolkling** — native SwiftUI virtual pet app with Dynamic Island Live Activities and on-device AI.
 
-### 1. **Crises.ai** - SunHacks 2025 🆕
-🏅 **State Farm - Best Hack for Safety**  
-Real-time emergency dashboard mapping earthquakes, wildfires, and disasters  
-Tech Stack: `Next.js`, `React`, `Real-time APIs`
+**[PepTalk](https://github.com/SankrityaT/PepTalk)** — AI sports coach with memory, built on a temporal knowledge graph.
 
-### 2. **InstaCare** - WiCS Hackathon Winner
-🏥 Healthcare platform predicting ER wait times using ML  
-Tech Stack: `Next.js`, `TypeScript`, `Google Maps API`, `Machine Learning`
+<br>
 
-### 3. **CommUnity** - Hacks for Humanity Winner
-👥 Community collaboration platform with AI-powered conflict mediation  
-Tech Stack: `Next.js`, `TypeScript`, `AI Integration`
----
+### Stack
 
-## 🚀 Featured Projects
+```
+TypeScript · React · Next.js · Node.js · Python · Swift · SwiftUI
+PostgreSQL · Redis · AWS · Supabase
+```
 
-### **iOS Wellness App** @ SeeMe LLC
-📱 AI-powered wellness app with personalized insights  
-- Integrated **Mistral-7B LLM** for personalized recommendations
-- Built with **Swift** and **SwiftUI**
-- Increased user engagement by **60%** through prompt engineering
-- Tech Stack: `Swift`, `SwiftUI`, `Mistral-7B AI`
+<br>
 
-### **Real Estate Web Application** @ HCL Technologies
-🏡 Full-stack real estate platform  
-- Engineered front-end solutions with modern web technologies
-- Collaborated in agile environment
-- Tech Stack: `React`, `Node.js`, `HTML/CSS`, `JavaScript`
+### Past
 
----
+Full-stack + iOS intern at **SelfMadee**, sole iOS dev on a multi-tenant B2B SaaS. iOS dev at **SeeMe**, shipped on-device AI wellness app. Built a distributed query system sharding 1M+ rows across 6 PostgreSQL nodes with two-phase locking and automated failover.
 
-## 📊 GitHub Stats
+<br>
 
-![Sankritya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankrityaT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankrityaT&layout=compact&theme=radical)
-
----
-
-## 💡 What I'm Up To
-
-- 🔭 Currently working on: **AI-powered educational tools**
-- 🌱 Learning: **Advanced prompt engineering & LLM integration**
-- 👯 Looking to collaborate on: **Open source projects in AI/EdTech**
-- 💬 Ask me about: **Full-stack development, iOS, AI integration, hackathons**
-- 📫 Reach me: **sankritya.apps@gmail.com**
-- ⚡ Fun fact: **4 consecutive hackathon wins and counting!** 🏆
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sankrityat)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](http://www.sankrityat.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sankritya.apps@gmail.com)
-
----
-
-⭐️ From [SankrityaThakur](https://github.com/SankrityaThakur)
+<div align="center">
+<sub>always building something</sub>
+</div>
