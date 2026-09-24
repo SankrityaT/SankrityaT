@@ -20,11 +20,11 @@ Zoom Fellow at ASU Next Lab, building AI-native tools on Zoom's developer platfo
 
 **[Cardea](https://github.com/SankrityaT/openai-mcp-hackathon)** — a browser AI-agent canvas with an approval gate, so the agent can't take irreversible actions unchecked. WebMCP-native, drives real pages through in-page tools while nothing commits without you.
 
-**Navia** — an AI companion app with 150+ users, built with a small team. Won $25K across hackathons including ASU's Global AI Challenge.
+**[Navia](https://joinnavia.com)** — an AI companion app with 150+ users, built with a small team. Won $25K across hackathons including ASU's Global AI Challenge.
 
 **[OnDeviceCatalyst](https://github.com/SankrityaT/OnDeviceCatalyst)** — open-source Swift package bridging llama.cpp and Apple MLX, custom Metal GPU shaders, running local LLMs on-device at 28 tok/s.
 
-**Yolkling** — native SwiftUI virtual pet app with Dynamic Island Live Activities and on-device AI.
+**[Yolkling](https://yolkling.com)** — native SwiftUI virtual pet app with Dynamic Island Live Activities and on-device AI.
 
 **[PepTalk](https://github.com/SankrityaT/PepTalk)** — AI sports coach with memory, built on a temporal knowledge graph.
 
